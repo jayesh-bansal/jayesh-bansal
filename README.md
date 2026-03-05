@@ -56,6 +56,27 @@
 *(All projects include live code, structured repos, and GitHub READMEs)*
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayesh-bansal&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayesh-bansal&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jayesh-bansal&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayesh-bansal&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+</p>
+
+## 📊 GitHub Contributor Statistics
+![GitHub Contributor Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshavardhanjakku&theme=tokyonight)
+
 
 ### 💬 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/jayeshbansal)  
