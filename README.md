@@ -75,7 +75,7 @@
 </p>
 
 ## 📊 GitHub Contributor Statistics
-![GitHub Contributor Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshavardhanjakku&theme=tokyonight)
+![GitHub Contributor Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayesh-bansal&theme=tokyonight)
 
 
 ### 💬 Let's Connect
